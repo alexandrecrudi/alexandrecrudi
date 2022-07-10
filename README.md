@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexandrecrudi
-- 👀 I’m interested in PHP and Chess
+- 👀 I’m interested in PHP
 - 🌱 I’m currently learning technology in internet systems
 
 <!---
